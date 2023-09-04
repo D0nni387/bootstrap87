@@ -1,0 +1,17 @@
+/* General rules */
+
+.bg-color-main {
+  background-color: dodgerblue;
+}
+
+.text-color-main {
+  color: black;
+}
+
+.bg-color-alt {
+  background-color: aqua;
+}
+
+.text-color-alt {
+  color: orange;
+}
