@@ -1,9 +1,9 @@
-/* generic classes */
+/* General rules */
 
 .bg-color-main {
-  background-color: aqua;
+  background-color: blue;
 }
 
-.text-color-main {
-  color: blueviolet;
+.bg-color-secondary {
+  background-color: antiquewhite;
 }
