@@ -1,3 +1,7 @@
 .bg-c0lor-main {
   background-color: #260855;
 }
+
+.hide {
+  display: none;
+}
